@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Thanks to Karan Pratap Singh for his guide on dockerizing a react app with dev and prod multi stage builds. https://dev.to/karanpratapsingh/dockerize-your-react-app-4j2e
+
 ## Available Scripts
 
 In the project directory, you can run:
