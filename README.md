@@ -22,7 +22,7 @@ Your app is ready to be deployed!
 
 You can launch it like
 
-docker run -d -p 8080:80 my_prod_image
+docker run -d -p 8080:80 app_prod
 
 ## Learn More
 
